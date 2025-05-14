@@ -17,15 +17,15 @@ A beginner-friendly C++ console application that draws basic geometric shapes us
 <summary>▶ Click to expand</summary>
 
 ### 🔳 Square  
-![Square](screenshots/square.png.bmp)
+![Square](square.png.bmp)
 
 ### ⬛ Rectangle  
-![Rectangle](screenshots/rectangle.png.bmp)
+![Rectangle](rectangle.png.bmp)
 
 ### 🔺 Triangle  
-![Triangle](screenshots/triangle.png.bmp)
+![Triangle](triangle.png.bmp)
 
 ### 🔵 Circle  
-![Circle](screenshots/circle.png.bmp)
+![Circle](circle.png.bmp)
 
 </details>

@@ -13,9 +13,6 @@ A beginner-friendly C++ console application that draws basic geometric shapes us
 
 ## 📸 Screenshots
 
-<details>
-<summary>▶ Click to expand</summary>
-
 ### 🔳 Square  
 ![Square](square.png.bmp)
 

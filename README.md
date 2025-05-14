@@ -1,6 +1,6 @@
 # 🟦 Console Shapes Drawer
 
-A C++ console application that draws basic geometric shapes using object-oriented programming (OOP).
+A C++ console application that draws basic geometric shapes
 
 🎯 **Features:**
 - 🟩 Draws squares and rectangles with borders
